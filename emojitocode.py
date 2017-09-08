@@ -48,7 +48,7 @@ ICONS = {
     ':S': u'\U0001F615', ':/': u'\U0001F615', ':\\': u'\U0001F615', '=S': u'\U0001F615', '=/': u'\U0001F615',
     '=\\': u'\U0001F615',  # CONFUSED FACE
     ':P': u'\U0001F61B', ':p': u'\U0001F61B', '=P': u'\U0001F61B', '=p': u'\U0001F61B',  # FACE WITH STUCK-OUT TONGUE
-    ';P': u'\U0001F61C', ';-P': u'\U0001F61C',  # FACE WITH STUCK-OUT TONGUE AND WINKING EYE
+    ';P': u'\U0001F61C', ';p': u'\U0001F61C', ';-P': u'\U0001F61C',  # FACE WITH STUCK-OUT TONGUE AND WINKING EYE
     ':(': u'\U0001F61E', ':-(': u'\U0001F61E', '=(': u'\U0001F61E', '=-(': u'\U0001F61E',  # DISAPPOINTED FACE
     '>_<': u'\U0001F623',  # PERSEVERING FACE
 }
